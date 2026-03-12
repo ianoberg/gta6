@@ -1,0 +1,17 @@
+{
+    "image1": {
+        "data": "hwQQABAAAAAAAPf/f/d/BwAAf393f/cHAAD3/39/9wcAAHd3d/d/BwAA9/9/d3cHAAB/d3f//w8AAPd3d39/DwAAf3d39/cHAAD3/393dwcAAHd3d/d/BwAA9/9/f/cHAAB/d3d/9wcAAPd3d/d/BwAAf3d3f38HAAD3/3/3dwcAAHd3d39/Bw==",
+        "mimeType": "image/x-mkcd-f4",
+        "displayName": "ammobox"
+    },
+    "image2": {
+        "data": "hwQMABAAAAAAAAD/D+DdAFUF8N3+390ApQX/3u3//wBV9d39375h/+/V3R3fHWH/perd3b0dYQ+l6t7dvR1hD+/l7h3fHWH/VfXv/d++Yf+lBf/e7f//AFUF8N3+390AAAAA/w/g3QA=",
+        "mimeType": "image/x-mkcd-f4",
+        "displayName": "lil king"
+    },
+    "*": {
+        "mimeType": "image/x-mkcd-f4",
+        "dataEncoding": "base64",
+        "namespace": "myImages"
+    }
+}
